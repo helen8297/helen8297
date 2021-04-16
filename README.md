@@ -14,7 +14,7 @@ I'm a Junior Frontend Engineer working at Purplebricks. I left a 10 year primary
 ## 🧰 Things I use
 
 <br>
-
+<p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-6100A5?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-77216F?style=flat-square&logo=css3&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-FF61F6?style=flat-square&logo=react&logoColor=white" />
@@ -32,7 +32,7 @@ I'm a Junior Frontend Engineer working at Purplebricks. I left a 10 year primary
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-00BAF2?style=flat-square&logo=storybook&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-0085C0?style=flat-square&logo=Jest&logoColor=white" />
   <img alt="Testing library" src="https://img.shields.io/badge/-Testing_Library-006699?style=flat-square&logo=testing-library&logoColor=white" />
-
+</p>
 <br>
 <br>
 
