@@ -7,7 +7,6 @@
 
 I'm a Junior Frontend Engineer working at Purplebricks. I left a 10 year primary school teaching career to learn fullstack development at the School of Code bootcamp in Birmingham. I really enjoy the frontend, I want to learn all I can about React and I'd love to learn about animating SVGs and D3 for data visualisation.
 <br>
-<br>
 
 ---
 
@@ -33,7 +32,6 @@ I'm a Junior Frontend Engineer working at Purplebricks. I left a 10 year primary
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-0085C0?style=flat-square&logo=Jest&logoColor=white" />
   <img alt="Testing library" src="https://img.shields.io/badge/-Testing_Library-006699?style=flat-square&logo=testing-library&logoColor=white" />
 </p>
-<br>
 <br>
 
 ---
