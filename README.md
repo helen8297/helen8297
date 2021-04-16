@@ -13,7 +13,16 @@ I'm a Junior Frontend Engineer working at Purplebricks. I left a 10 year primary
 
 <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/react.svg" alt="React Logo" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs.svg" alt="NextJS Logo" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/styled-components.svg" alt="Styled-components Logo" width="50" height="50"/>
+
 
 ---
 
