@@ -19,7 +19,7 @@ I'm a Junior Frontend Engineer working at Purplebricks. I left a 10 year primary
 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NextJS Logo" width="50" height="50" background="white"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled-components Logo" width="50" height="50"/>
 
