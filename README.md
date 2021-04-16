@@ -19,13 +19,13 @@ I'm a Junior Frontend Engineer working at Purplebricks. I left a 10 year primary
 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
 
-<img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="NextJS Logo" width="50" height="50" background="white"/>
+<img src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="NextJS Logo" width="50" background="white"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled-components Logo" width="50" height="50"/>
+<img src="https://styled-components.com/atom.png" alt="Styled-components Logo" width="50" height="50"/>
 
-<img src="https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png" alt="Nx Logo" width="50" height="50"/>
+<img src="https://miro.medium.com/max/1070/1*JOrlLNUDR7jisQJ81DTyLw.png" alt="Nx Logo" width="50" />
 
-<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/>
+<img src="https://blog.xnorcode.com/wp-content/uploads/2018/10/git-image.png" alt="Git Logo" width="60"/>
 
 <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM Logo" width="50" height="50"/>
 ---
