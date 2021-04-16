@@ -2,8 +2,10 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/helen8297?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/helen8297?style=social)
-![Linkedin](https://img.shields.io/endpoint?url="https://www.linkedin.com/in/helen8297/"?style=social&?logo=linkedin)
 
+I'm a Junior Frontend Engineer working at Purplebricks. I left a 10 year primary school teaching career to learn fullstack development at the School of Code bootcamp in Birmingham. I really enjoy the frontend, I want to learn all I can about React and I'd love to learn about animating SVGs and D3 for data visualisation. 
+
+---
 
 
 
