@@ -1,8 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Helen!
+
+![Twitter Follow](https://img.shields.io/twitter/follow/helen8297?style=social)
+![GitHub followers](https://img.shields.io/github/followers/helen8297?style=social)
+![Linkedin](https://img.shields.io/endpoint?url="https://www.linkedin.com/in/helen8297/"?style=social&?logo=linkedin)
+
+
+
+
+
+
+
 
 <!--
-**helen8297/helen8297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
