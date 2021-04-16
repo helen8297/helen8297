@@ -7,6 +7,16 @@ I'm a Junior Frontend Engineer working at Purplebricks. I left a 10 year primary
 
 ---
 
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/html5-1.svg" alt="HTML Logo" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/>
+
+---
+
 
 
 
