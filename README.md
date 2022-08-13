@@ -5,7 +5,6 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/helen8297?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/helen8297?style=social)
 
-I'm a Junior Frontend Engineer working at Pollen.
 <br>
 
 ---
